@@ -159,7 +159,7 @@ class SampleListener
 
 ## The result
 
-If we run `curl localhost` in the console, we'll get the output below showing us it has perfectly worked as expected.
+If we run `curl localhost` in the console, we'll get the output below showing us it has worked perfectly as expected.
 
 ```bash
 FIRSTNAME is Georges
